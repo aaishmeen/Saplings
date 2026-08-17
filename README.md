@@ -1,5 +1,5 @@
 ````markdown
-# 🌱 Saplings
+🌱 Saplings
 
 > Real-time conversations that grow like branches.
 
